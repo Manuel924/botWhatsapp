@@ -1,0 +1,102 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD204B95CC923469056',
+    participant: undefined
+  },
+  messageTimestamp: 1713182712,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_330fe467-6830-4f70-8ae2-cea4d08314bb',
+  keyword: 'key_76013372-3d01-4c82-9df7-3f43be50dc11',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8bf53bbc6002a3f73081c70e49f4bcb1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB9F77915D606193A2C',
+    participant: undefined
+  },
+  messageTimestamp: 1713182714,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9ceed74c-83b0-436e-8bbd-5f6207fe3261',
+  keyword: 'key_0fb07f40-795c-4394-bfb6-0b3f9aa1b1d9',
+  answer: 'Elegi alguna de estas opciones:\n' +
+    '\n' +
+    'Opcion 1 - Menu\n' +
+    'Opcion 2 - Reservar mesa\n' +
+    'Opcion 3 - Hacer consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '72a9b81bbf710f8028dfe3358c3911ab'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A71544F936C2DA444BE',
+    participant: undefined
+  },
+  messageTimestamp: 1713182715,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '447456094679'
+}
